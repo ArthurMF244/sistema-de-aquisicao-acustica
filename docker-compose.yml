@@ -1,0 +1,8 @@
+services:
+  python-audio:
+    build: .
+    container_name: ruido_escapamentos_python
+    volumes:
+      - .:/app
+    working_dir: /app
+    command: python src/analisar_audio.py

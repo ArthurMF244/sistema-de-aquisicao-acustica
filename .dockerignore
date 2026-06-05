@@ -1,0 +1,8 @@
+audios/
+graficos/
+dados/resultados_audio.csv
+__pycache__/
+*.pyc
+.git/
+.vscode/
+.env
