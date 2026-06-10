@@ -1,5 +1,5 @@
-id,arquivo,local,data,hora,duracao_segundos,condicao,observacao
-1,AudioC4Arthur.wav,Avenida principal,2026-06-05,18:00,30,trafego_normal,Fluxo moderado de veiculos
-2,DavyCB500.wav,Avenida principal,2026-06-05,18:10,30,escapamento_barulhento,Passagem de motocicleta com escapamento ruidoso
-3,SamuelMusica.wav,Area residencial,2026-06-05,20:00,30,baixo_movimento,Poucos veiculos
-4,SamuelUP.wav,Proximo a lombada,2026-06-05,18:30,30,aceleracao,Veiculos acelerando apos reducao de velocidade
+id,arquivo
+1,AudioC4Arthur.wav
+2,DavyCB500.wav
+3,SamuelMusica.wav
+4,SamuelUP.wav

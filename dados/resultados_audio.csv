@@ -1,5 +1,0 @@
-id,arquivo,local,data,hora,duracao_segundos,condicao,observacao,taxa_amostragem,amplitude_media,amplitude_maxima,energia_media,rms,frequencia_dominante_hz,energia_20_250hz,energia_250_2000hz,energia_2000_5000hz,quantidade_picos
-1,AudioC4Arthur.wav,Avenida principal,2026-06-05,18:00,30,trafego_normal,Fluxo moderado de veiculos,8000,0.043935,1.0,0.012179,0.110359,256.87,6215428.010751,5137020.874485,62598.474886,25
-2,DavyCB500.wav,Avenida principal,2026-06-05,18:10,30,escapamento_barulhento,Passagem de motocicleta com escapamento ruidoso,48000,0.092597,1.0,0.017063,0.130624,78.06,5374383307.496178,128022691.877743,48092622.400573,398
-3,SamuelMusica.wav,Area residencial,2026-06-05,20:00,30,baixo_movimento,Poucos veiculos,48000,0.096531,1.0,0.024914,0.15784,61.65,971994894.104806,747230.70319,452527.736539,30
-4,SamuelUP.wav,Proximo a lombada,2026-06-05,18:30,30,aceleracao,Veiculos acelerando apos reducao de velocidade,48000,0.15858,1.0,0.072576,0.269399,52.9,43977625888.25187,1266303660.607062,35088121.92559,183
